@@ -8,3 +8,5 @@ That's fairly simple:
 
 ### Optional:
 You can change the precision level in `main.cpp`.
+
+You can find some more history about Wallis' product on [Wikipedia](https://en.wikipedia.org/wiki/Wallis_product).
